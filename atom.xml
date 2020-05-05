@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZainvP.GitHub.io</id>
     <title>Zain&apos;s Blog</title>
-    <updated>2020-05-05T12:13:08.287Z</updated>
+    <updated>2020-05-05T12:13:58.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZainvP.GitHub.io"/>
     <link rel="self" href="https://ZainvP.GitHub.io/atom.xml"/>
@@ -15,7 +15,10 @@
         <link href="https://ZainvP.GitHub.io/post/VInUI4EYA">
         </link>
         <updated>2020-04-20T13:19:28.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
+        <summary type="html"><![CDATA[<p>手上的 iPhone 7 Plus 在升级到 iOS 13.4.1 之后愈发卡顿，外加一直引颈翘首着一加的新品，终于使我下定决心在国行发布的隔天冲去某实体店体验……(more...)</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>手上的 iPhone 7 Plus 在升级到 iOS 13.4.1 之后愈发卡顿，外加一直引颈翘首着一加的新品，终于使我下定决心在国行发布的隔天冲去某实体店体验……(more...)</p>
+<!-- more -->
 <p><img src="https://ZainvP.GitHub.io/post-images/1587389443327.jpg" alt=""><br>
 手上的 iPhone 7 Plus 在升级到 iOS 13.4.1 之后愈发卡顿，外加一直引颈翘首着一加的新品，终于使我下定决心在国行发布的隔天冲去某实体店体验。<br>
 8 Pro 与 8 最明显的差距就是 120 Hz 刷新率的屏幕，但从 90 Hz 到 120 Hz 的跨越并不明显，如果不将二者放在一起比较的话，差别并不是特别大，MEMC 插帧技术对于低码率视频来说效果平平。<br>
